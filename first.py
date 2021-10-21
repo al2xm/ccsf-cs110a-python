@@ -1,7 +1,7 @@
 #This program produces simple output
 #Inputs: None
 #Outputs: 3 block letters
-#Written by:Alexander Ma
+#Written by: Alexander Ma
 #Date: Sep 3,2021
 
 print("Hello, Python!")
